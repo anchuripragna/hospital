@@ -1,0 +1,40 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.icon
+{
+    color: mediumvioletred;
+
+} 
+.class h2
+{
+    position: absolute;
+    z-index: 1;
+    margin-top: 100px;
+    margin-left:60px;
+    color: darkblue;
+    font-size: 30px;
+}
+hr
+{
+    position: relative;
+    
+}
+.class li
+{
+    font-size: 18px;
+    color: darkorange;
+}
+.section img{
+    margin-left: 30px;
+} 
+.section img:hover
+{
+    transform: scale(1.1);
+code .
+ccodecode .
+
+}
